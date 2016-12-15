@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+
+ /*
+ *= require bootstraps/bootstrap
+ *= require material-design/bootstrap-material-design
+ *= require material-design/ripples
+ *= require materialize/materialize
+ */
+
+ body {
+ background-color: #FFFFFF;
+ padding-top:60px;
+ }
